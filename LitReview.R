@@ -14,7 +14,7 @@ color_scheme = c("#444444", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2
 
 ##### Read File and Clean Up #####
 
-lit = read_excel("../Review/Categorized.xlsx", sheet = 4)
+lit = read_excel("SupportingData.xlsx")
 
 ##### Focal Taxa #####
 

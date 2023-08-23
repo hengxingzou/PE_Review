@@ -10,7 +10,7 @@ library(janitor)
 library(patchwork)
 
 # color scheme from https://jfly.uni-koeln.de/color/
-color_scheme = c("#444444", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7", "#bbbbbb")
+color_scheme = c("#444444", "#D55E00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#E69F00", "#CC79A7", "#bbbbbb")
 
 ##### Read File and Clean Up #####
 

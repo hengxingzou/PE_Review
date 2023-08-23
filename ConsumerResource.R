@@ -9,7 +9,7 @@ library(doParallel)
 registerDoParallel(cores = 4)
 
 # color scheme from https://jfly.uni-koeln.de/color/
-color_scheme = c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+color_scheme = c("#D55E00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#E69F00", "#CC79A7")
 
 ##### Functions #####
 

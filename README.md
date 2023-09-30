@@ -1,6 +1,6 @@
 This repository contains public code for the manuscript:
 
-Zou, Heng-Xing, and Volker HW Rudolf. 2022. "Bridging theory and experiments of priority effects." *bioRXiv*. [https://www.biorxiv.org/content/10.1101/2022.12.05.519211v2](https://www.biorxiv.org/content/10.1101/2022.12.05.519211v2)
+Zou, Heng-Xing, and Volker HW Rudolf. 2023. "Bridging theory and experiments of priority effects." *Trends in Ecology and Evolution*. [https://doi.org/10.1016/j.tree.2023.08.001](https://doi.org/10.1016/j.tree.2023.08.001)
 
 For any questions, please [contact Heng-Xing Zou](hengxingzou@rice.edu)
 
